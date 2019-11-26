@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="58" viewBox="0 0 41 58">
+    <defs>        
+        <clipPath id="AAAAa">
+            <rect fill='none' width="41" height="58" transform="translate(307 88)"/>
+        </clipPath>
+        <linearGradient id="bAA" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ffc100"/>
+            <stop offset="1" stop-color="#ff7b02"/>
+        </linearGradient>
+    </defs>
+    <g clip-path='url(#AAAAa)' transform="translate(-307 -88)">
+        <circle fill='url(#bAA)' cx="29" cy="29" r="29" transform="translate(307 88)"/>
+    </g>
+</svg>

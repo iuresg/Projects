@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+    position: relative;
+    background:transparent linear-gradient(180deg, #FFFFFF 0%, #F5F6FA 67%, #F5F6FA 100%) 0% 0% no-repeat padding-box;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+}
+
+.max-container{
+    max-width: 1366px;
+    margin: 0 auto;
+}

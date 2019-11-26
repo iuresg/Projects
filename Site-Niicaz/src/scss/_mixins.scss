@@ -1,0 +1,21 @@
+@mixin shadow{
+    box-shadow: rgba(74, 88, 116, 0);
+}
+
+@mixin gradientBlue {
+    background: linear-gradient( rgba(48,120,255,1) 0%, rgba(0,187,255,1) 100% );
+}
+
+@mixin gradientYellow {
+    background: linear-gradient( rgba(48,120,255,1) 0%, rgba(0,187,255,1) 100% );
+}
+
+@mixin clickable {
+    cursor: pointer;
+    &:hover{
+        filter: brightness(95%);
+    }
+    &:active{
+        filter: brightness(110%);
+    }
+}
